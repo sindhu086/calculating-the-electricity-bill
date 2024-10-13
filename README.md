@@ -1,1 +1,0 @@
-# calculating-the-electricity-bill
